@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @claudiawerlich
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
- - 📫 How to reach me ...
 
 <!---
 claudiawerlich/claudiawerlich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,3 +8,4 @@ I'm Claudia Werlich and I'm a computer teacher.
 I love programming languages, preferring C++, C#, PHP, JS.
 I work with MySQL and SQL Server Databases.
 I also teach Programming Logic, Database Modeling, OOP and OOA.
+📫 clawer@gmail.com
